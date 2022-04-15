@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/polaroid/static/css/main.d521b2e2.css",
+    "main.js": "/polaroid/static/js/main.09ed2083.js",
+    "index.html": "/polaroid/index.html",
+    "main.d521b2e2.css.map": "/polaroid/static/css/main.d521b2e2.css.map",
+    "main.09ed2083.js.map": "/polaroid/static/js/main.09ed2083.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d521b2e2.css",
+    "static/js/main.09ed2083.js"
+  ]
+}
