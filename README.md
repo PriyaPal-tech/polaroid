@@ -1,1 +1,1 @@
-## An image searching react app [Polaroid](https://priyapal-tech.github.io/polaroid/)
+## An image searching web app [Polaroid](https://priyapal-tech.github.io/polaroid/)
